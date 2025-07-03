@@ -1,0 +1,196 @@
+.navbar {
+    background-color: #f8f6f3;
+    position: relative;
+    top: 0;
+}
+
+.navbar-brand h1 {
+    color: black;
+}
+
+.navbar-nav a{
+    color: black;
+}
+
+.noodles {
+    display: flex;
+    background-image: url(https://static.wixstatic.com/media/c837a6_5950adc5b1a94d49bcd90573bd105b06~mv2.jpg/v1/fill/w_1439,h_1078,al_c,q_85,enc_avif,quality_auto/c837a6_5950adc5b1a94d49bcd90573bd105b06~mv2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+
+}
+
+.noodley {
+    position: absolute;
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+    padding-left: 60px;
+    top: 30%;
+}
+
+.hello {
+    background-color: #f8f6f3;
+    text-align: left;
+    padding: 50px;
+}
+
+.menu-section {
+    width: 900px;
+}
+
+.menu-section h1 {
+    font-size: 80px;
+    font-weight: bold;
+}
+
+.col-md-6 p {
+    width: 530px;
+    font-size: 20px;
+}
+
+.explore-menu {
+    font-weight: bold;
+    font-size: 25px;
+    color: black;
+    text-decoration: underline;
+}
+
+.hirow {
+    display: flex;
+    background-color: rgb(153, 156, 104);
+    padding: 50px;
+    height: 500px;
+    align-items: center;
+    text-align: justify;
+    justify-content: center;
+}
+
+.hellow {
+    width: 1200px;
+}
+
+.hellow h1 {
+    font-size: 55px;
+    font-weight: bold;
+}
+
+.hillow p {
+    font-size: 15px;
+    width: 500px;
+}
+
+.about-link {
+    font-weight: bold;
+    padding-top: 30px;
+    text-decoration: underline;
+    color: black;
+}
+
+.img-main{
+    display: flex;
+}
+
+.img-1{
+    display: flex;
+    gap: 40px;
+}
+
+.momentss{
+    display: flex;
+    gap: 150px;
+}
+
+.moments p{
+    font-size: 80px;
+}
+
+.momented p{
+    font-size: 25px;
+    padding-top: 60px;
+    align-items: flex-end;
+    text-decoration: underline;
+}
+
+.imagess{
+    display: flex;
+    gap: 20px;
+}
+
+.images{
+    display: flex;
+}
+
+.images-sub{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.imaged1{
+    display: flex;
+    gap: 20px;
+}
+
+.images-subs{
+    display: flex;
+    gap: 20px;
+}
+
+.subed{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.subed1{
+    display: flex;
+    gap: 20px;
+}
+
+.images-subed{
+    display: flex;
+}
+
+.subbed{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.images22{
+    display: flex;
+    gap: 20px;
+}
+
+.gir {
+    background-color: #d9d9d9; /* Light gray background */
+    padding: 50px;
+    justify-content: space-between;
+    height: 400px;
+}
+
+.brass {
+    padding: 40px;
+}
+
+.brass p{
+    font-size: 25px;
+}
+
+.brass h1 {
+    font-size: 80px;
+    font-weight: bold;
+}
+
+.brase p {
+    padding-top: 90px;
+    color: black;
+}
+
+.nav-links a {
+    display: flex;
+    color: black;
+    font-weight: bold;
+    padding-top: 8px;
+}

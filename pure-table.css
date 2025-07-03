@@ -1,0 +1,103 @@
+.navbar {
+    background-color: #f8f6f3;
+    position: relative;
+    top: 0;
+}
+
+.navbar-brand h1 {
+    color: black;
+}
+
+.navbar-nav a {
+    color: black;
+}
+
+.booking-container {
+    display: flex;
+    padding-top: 310px;
+}
+
+.breadcrumb{
+    text-decoration: none;
+    color: black;
+}
+
+.booking-title {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.form-control {
+    border: none;
+    border-bottom: 1px solid black;
+    border-radius: 0;
+}
+
+.time-slot {
+    padding: 50px;
+    display: flex;
+    width: 120px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    border: 1px solid black;
+    margin: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
+
+.disabled {
+    color: gray;
+    text-decoration: line-through;
+    pointer-events: none;
+    opacity: 0.5;
+}
+
+.selected {
+    background-color: olive;
+    color: white;
+}
+
+.btn-custom {
+    background-color: olive;
+    color: white;
+    font-weight: bold;
+    border: none;
+    padding: 10px 20px;
+}
+
+.gir {
+    background-color: #d9d9d9; /* Light gray background */
+    padding: 50px;
+    justify-content: space-between;
+    height: 400px;
+    align-items: center;
+}
+
+.brass {
+    padding: 40px;
+}
+
+.brass p{
+    font-size: 25px;
+}
+
+.brass h1 {
+    font-size: 80px;
+    font-weight: bold;
+}
+
+.brase p {
+    padding-top: 90px;
+    color: black;
+}
+
+.nav-links a {
+    display: flex;
+    color: black;
+    font-weight: bold;
+    padding-top: 8px;
+}

@@ -1,0 +1,85 @@
+.navbar {
+    background-color: #f8f6f3;
+    position: relative;
+    top: 0;
+}
+
+.navbar-brand h1 {
+    color: black;
+}
+
+.navbar-nav a{
+    color: black;
+}
+
+.hiii{
+    display: flex;
+    background-color: #f8f6f3;
+}
+
+.content-wrapper {
+    margin-top: 150px;
+    background-color: #f8f6f3;
+}
+
+.menu-container {
+    display: flex;
+    align-items: stretch;
+    background-color: #f8f6f3;
+    height: 500px; /* Set a fixed height for reference */
+}
+
+.menu-image {
+    flex: 0 0 50%;
+    justify-content: space-between;
+}
+
+.menu-image img {
+    width: 500px;
+    height: 500px;
+    background-color: #f8f6f3;
+}
+
+.menu-content {
+    padding: 20px;
+    overflow-y: auto;
+    background: #f8f6f3; 
+}
+
+.menu-content h6{
+    display: flex;
+    justify-content: space-between;
+}
+
+.gir {
+    background-color: #d9d9d9; /* Light gray background */
+    padding: 50px;
+    justify-content: space-between;
+    height: 400px;
+    align-items: center;
+}
+
+.brass {
+    padding: 40px;
+}
+
+.brass p{
+    font-size: 25px;
+}
+
+.brass h1 {
+    font-size: 80px;
+    font-weight: bold;
+}
+
+.brase p {
+    padding-top: 90px;
+    color: black;
+}
+
+.nav-links a {
+    display: flex;
+    color: black;
+    font-weight: bold;
+    padding-top: 8px;
+}
